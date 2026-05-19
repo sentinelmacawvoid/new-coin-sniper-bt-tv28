@@ -1,4 +1,4 @@
-# 
+# custom bot de ataque sanduiche executor é o melhor bot de ataque sanduiche executor com detecção de gems de baixa capitalização e transações proxy. Seguro, confiável e otimizado
 
 
 
